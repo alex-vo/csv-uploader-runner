@@ -19,7 +19,7 @@ To set up and run the project locally:
 
 ```bash
 git clone https://github.com/alex-vo/csv-uploader-ui.git
-git clone git@github.com:alex-vo/csv-uploader-backend.git
+git clone https://github.com/alex-vo/csv-uploader-backend.git
 docker-compose up
 ```
 
